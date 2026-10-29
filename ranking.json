@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 90.09,
+    "reason": "Meets mandatory checks, strong experience, competitive budget, excellent price and timeline."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 78.72,
+    "reason": "Meets the stated mandatory checks, Good experience, best warranty and a full team plan and best pricing."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 67.35,
+    "reason": "Meets the stated mandatory checks, excellent experience, higher in price, Named project lead, five-person crew, and weekly progress reports; safety and monitoring plans are not specified."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Meets the stated mandatory checks, Strong experience and best price among eligible bids, but failed to state a firm timeline. "
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Failed mandatory criterion: Ontario electrical contractor licence is not held by the bidder and not stated, not stated team and approach"
+  }
+]
